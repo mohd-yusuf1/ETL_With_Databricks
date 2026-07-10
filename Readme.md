@@ -55,6 +55,3 @@ This project follows the **Medallion Architecture**:
 - **Python Full Course** → [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn)
 - **Tableau Full Course** → [Watch on YouTube](https://youtu.be/UcGF09Awm4Y)
 - **Real-World Data Projects** → [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7)
-- **Data Career Roadmaps** → [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qah95jp-aPtysu7kFCbg7hd)
-My goal is simple: help you understand how data actually works in real systems, not just how to write code.
-
