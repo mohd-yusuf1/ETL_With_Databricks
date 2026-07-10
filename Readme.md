@@ -4,12 +4,6 @@ This repository contains a complete, real-world **Data Lakehouse implementation*
 
 ---
 
-## ⚠️ Important Note
-
-Build this project **on your own first**  
-Use this repository **only as a reference** if you get stuck.
----
-
 ## 🏗️ Architecture
 
 This project follows the **Medallion Architecture**:
