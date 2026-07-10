@@ -46,12 +46,3 @@ This project follows the **Medallion Architecture**:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-yusuf-8419b9333)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohd-yusuf1.github.io/Portfolio/)
-
----
-
-## ▶️ Free YouTube Courses
-
-- **SQL Full Course** → [Watch on YouTube](https://youtu.be/SSKVgrwhzus)
-- **Python Full Course** → [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn)
-- **Tableau Full Course** → [Watch on YouTube](https://youtu.be/UcGF09Awm4Y)
-- **Real-World Data Projects** → [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7)
